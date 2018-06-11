@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "805401480852",
+    "firebase_url": "https://notiff-e283a.firebaseio.com",
+    "project_id": "notiff-e283a",
+    "storage_bucket": "notiff-e283a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805401480852:android:e6ae4b368629d699",
+        "android_client_info": {
+          "package_name": "com.notiff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805401480852-7nfb1o26ssrsahepc044jjs2gtn9hlhc.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "805401480852-7nfb1o26ssrsahepc044jjs2gtn9hlhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO_NjTKbvCidtOPX6SQUN-RKQRORzPc4k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
